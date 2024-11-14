@@ -1,5 +1,5 @@
-# The survaival guide for Ph.D. students
-###### date: `19/04/2024`
+# The survival guide for Ph.D. students
+###### date: `14/11/2024`
 This document collects a list of useful references and frequently asked questions (FAQs) that are of interest to Ph.D. students in Physics at the Department of Physics and Astronomy DFA (University of Padova).
 
 At the present time, it is an unofficial document: it is written and maintained by the Ph.D. students themselves. The editors of this document are the two student representatives in the Ph.D. board: Pietro Grutta (pietro.grutta@studenti.unipd.it) and Francesco Lorenzi (francesco.lorenzi.2@studenti.unipd.it).
