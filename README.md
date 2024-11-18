@@ -1,5 +1,5 @@
 # The survival guide for Ph.D. students
-###### date: `14/11/2024`
+###### date: `18/11/2024`
 This document collects a list of useful references and frequently asked questions (FAQs) that are of interest to Ph.D. students in Physics at the Department of Physics and Astronomy DFA (University of Padova).
 
 At the present time, it is an unofficial document: it is written and maintained by the Ph.D. students themselves. The editors of this document are the two student representatives in the Ph.D. board: Pietro Grutta (pietro.grutta@studenti.unipd.it) and Francesco Lorenzi (francesco.lorenzi.2@studenti.unipd.it).
@@ -47,7 +47,7 @@ The <span id="admissionExam">admission exam</span> has the purpose of evaluating
 
 In the first year the student needs to take 3 of them, and complete all of them by the end of the second year.
 
-All the proposed exams consists in 24 hours of didactics. The final exam depend on the courses. In most cases, it consts of an oral presentation on an advanced research topic (typically discussion of a paper). [??]
+All the proposed exams consist in 24 hours of didactics. The final exam depends on the courses. In most cases, it consists of an oral presentation on an advanced research topic (typically a discussion of a paper).
 It is possible to select one exam as an assessment provided by a summer or winter school, or another exam from the University of Padova, that is structurally similar to the ones offered in the Ph.D. school.
 
 #### Extra exams. The diploma supplement
@@ -63,14 +63,14 @@ Extra exams that the students attend during the PhD course are reported in the d
 ## During PhD
 ### Office
 
-#### Access to the work place (office hours and beyond)
+#### Access to the workplace (office hours and beyond)
 At the time the personal badge is issued, a request for accessing the DFA over a certain time period (either 24h/7 or 08:00-19:00 Mon.-Fri.) is filled. The document (‘Modulo per la richiesta di accesso’ - [link](https://www.dfa.unipd.it/servizi/settore-direzione/modulistica/)) determines the time interval you have access to the structure. All the Ph.D. students have granted 24h/7 access policy. As a matter of fact, after you have received the badge you should have grants to access the buildings in the requested time period.
 
-The access policy holds for all the DFA structured. In the unfortunate event the badge does not work as intended (e.g. you are able to access Via Marzolo but not Via Paolotti), you can email Servizi Tecnici Generali (email: [stg@dfa.unipd.it](mailto:stg@dfa.unipd.it) reporting the issue (remember to include our badge number).
+The access policy holds for all the DFA structured personnel. In the unfortunate event that the badge does not work as intended (e.g. you are able to access Via Marzolo but not Via Paolotti), you can email Servizi Tecnici Generali (email: [stg@dfa.unipd.it](mailto:stg@dfa.unipd.it) reporting the issue (remember to include our badge number).
 
 Office keys are to be requested to the reception personnel in place at each building. The reception keeps an updated list of the Ph.D. students assigned to each office. Upon finishing the Ph.D. period, keys should be returned.
 
-If you need to let in a person that is not affiliated with the department, the responsibility of his or her safety and the safety of the properties of the department is yours. [??]
+If you need to let in a person that is not affiliated with the department, the responsibility of his or her safety and the safety of the properties of the department is yours.
 
 #### Assignation
 Offices are assigned at the beginning of the Ph.D., but can eventually undergo modifications due to space needs of the department. Ph.D. students are distributed all over the department due to the research groups needs and habits, however, there are some rooms where the students share the office.
@@ -87,9 +87,9 @@ They are:
 | *P*alsi      | 4     | 9  | via Belzoni 7 (a.k.a. *P*aolotti building)|
 
 
-The referent for allocations is prof. Ugo Gasparini. The Ph.D. representative can relate to him if any needs about allocations may arise. It is suggested to check yourself the availability of the rooms, after you have been assigned.
+The referent for allocations is Prof. Ugo Gasparini. The Ph.D. representative can relate to him if any needs about allocations may arise. It is suggested to check yourself the availability of the rooms, after you have been assigned.
 
-The number of seats are not sufficient to guarantee that every student has its own desk. Therefore, it is possible that given a certain number of seats in an office (i.e., 18 in M382) more students are assigned there. This occurs especially because people who is not entirely based in DFA (like Ph.D. students working in Legnaro's). 
+The number of seats is not sufficient to guarantee that every student has his/her own desk. Therefore, it is possible that given a certain number of seats in an office (i.e., 18 in M382) more students are assigned there. This occurs especially because people who is not entirely based in DFA (like Ph.D. students working in Legnaro's). 
 
 A map of office assignations can be found [here](https://docs.google.com/spreadsheets/d/17KcXkMf2aM042LebgOvS0XId70IA5Eomwbc3cIahmSQ/edit?usp=sharing).
 
@@ -165,7 +165,7 @@ In order to be entitled to pick up any item from the warehouse, you’ll need to
 If you no longer need an item you took and it is still in good condition, it is encouraged to return to the warehouse, for a more sustainable and efficient usage of such resources. Your cooperation in maintaining transparency and adhering to these guidelines contributes to the smooth functioning of the material distribution.
 
 #### Leasing items
-Any item with an inventory number (either INFN, INAF or UNIPD) given in lease to any  student cannot by default be carried away from the workplace. It is allowed to bring the item outside of the workplace - i.e., you’re taking the laptop home or an oscilloscope away for a Mission - but the request shall be first issued with a module (contact Cristina Mazzucco) and only after approval the item can be carried away. This material is usually assigned to some individual of the research group (likely your supervisor), so technically they are reponsible for the item.
+Any item with an inventory number (either INFN, INAF or UNIPD) given in lease to any  student cannot by default be carried away from the workplace. It is allowed to bring the item outside of the workplace - i.e., you’re taking the laptop home or an oscilloscope away for a Mission - but the request shall be first issued with a module (contact Cristina Mazzucco) and only after approval the item can be carried away. This material is usually assigned to some individual of the research group (likely your supervisor), so technically they are responsible for the item.
 
 ### Funds
 >The following content has been produced with information by Marco Agnello during the 40’ meeting on 14/12/2023 at 10:00.
@@ -176,7 +176,7 @@ Depending on the scholarship type (more below), a Ph.D. student can have at disp
 #### Three types of scholarships
 There are two main categories of Ph.D. scholarships, depending on the fact they are totally or partially funded by the University. They are
 
-- (most common one) a scholarship on funds entirely of the Department / University. These type of scholarships are associated with a research budget of €4608 which can be used by the student within the three Ph.D. years;
+- (most common one) a scholarship on funds entirely of the Department / University. These types of scholarships are associated with a research budget of €4608 which can be used by the student within the three Ph.D. years;
 - a scholarship funded entirely by some external organization (e.g. Cariparo, INFN, INAF). The research budget is not always the same and it is fixed by the specific agreement between the department and the external organization. For example, it can occur that Cariparo can provide a budget higher than €4608. Analogously in the case of INFN, there is no €4608 budget but missions are handled by the INFN itself - which on the basis of the experiment funds can give more or less than over the 3-years.
 - half-funded by the external organization and half by the University (e.g. in the form of the DFA or another department). In this case, the budget for travel expenses and missions is regulated by the specific agreement the two entities have signed.
 
@@ -189,23 +189,23 @@ The first kind of additional funds are specifically designed for the research gr
 
 The Ph.D. School has a budget which is of the order of 10-12k€/year. These funds are used for the typical operation of the Ph.D. school. Some of these funds cover the typical scenarios below, where they are used for the Ph.D. students.
 
-Finally, it is possible to apply for language courses fundings, subject to approval by the supervisor and necessitating the initiation of a mission, which is typically associated with the abroad period of the Ph.D. program. It's important to highlight that these courses operate independently and are not funded from the Ph.D. allocation; instead, their costs are directly deducted from the DFA.
+Finally, it is possible to apply for language courses funding, subject to approval by the supervisor and necessitating the initiation of a mission, which is typically associated with the abroad period of the Ph.D. program. It's important to highlight that these courses operate independently and are not funded from the Ph.D. allocation; instead, their costs are directly deducted from the DFA.
 
 #### Scenarios for the usage of additional funds
 
 The typical scenarios where the student can use such additional funds are:
-- additional courses - i.e., italian language courses for foreign students, or foreign language courses for long periods abroad. There is a recent precedent where a student requested for a Spanish language course for a few months in Spain. It is suggested to first get in contact with DFA Secretariats (Agnello, Mazzucco, Monaco).
+- additional courses - i.e., Italian language courses for foreign students, or foreign language courses for long periods abroad. There is a recent precedent where a student requested for a Spanish language course for a few months in Spain. It is suggested to first get in contact with DFA Secretariats (Agnello, Mazzucco, Monaco).
 - monitor, durable IT resources - like desktop computers, laptops. Nowadays, for small electronics (low cost, typically monitors etc.) there is the Amazon Business. Typically the supervisor has access to this service, and the request shall be issued by him/her.
 
 
 #### Typical usage of the research budget
-During the course of the Ph.D. typically all the personal budget is used for travel expenses, workshops, schools and conferences. The typical scenarios where the student can use his/her personal budget cover the following points:
+During the course of the Ph.D. typically all the personal budget is used for travel expenses, workshops, schools, and conferences. The typical scenarios where the student can use his/her personal budget cover the following points:
 - missions or travels - costs to sustain travel expenses in order to participate in any event that is approved by the supervisor and is consistent with the student research activity.
 During missions, Ph.D. students can use their research funds to book hotels. It's important to note that there is a set maximum limit established by the university, allowing expenditures of up to 155€/night.
-- posters, small expenses - In these instances, you are required to submit the original fiscal receipt and, as an attachment, a printed A4-copy version of the poster and the original fiscal receipt within 60 days. This serves as an alternative avenue for expense management, yet it relies on the funds allocated to the Ph.D. student (€4608). This expense is refunded via the so called Fondo economale, which is a way these funds are deducted by your budget rather than another independent fund.
+- posters, small expenses - In these instances, you are required to submit the original fiscal receipt and, as an attachment, a printed A4-copy version of the poster and the original fiscal receipt within 60 days. This serves as an alternative avenue for expense management, yet it relies on the funds allocated to the Ph.D. student (€4608). This expense is refunded via the so-called Fondo economale, which is a way these funds are deducted by your budget rather than another independent fund.
 - lab. consumables - all the products that are not registered in any inventory, typically wearing over time (hence the name). For example, chemical reagents / disposable gloves / clean-room laboratory materials, etc. Although possible, it is worth noting that it is very unlikely that such materials are acquired with students' personal funds.
 - publishing fares - that is, any expense to publish a paper in a scientific journal. Again, most of the time it is the advisor or the research group which covers these expenses.
-- IT material - like tablets, laptops, desktop computers, monitors. Such material can be distinguished by consumable electronics by cost and being inventoried in the INFN/UNIPD catalog. An order for such material shall be requested to the ITOffice in the DFA, via the specified module available here (link). It is required to first issue the request and only after approval get the product (as opposed to the ‘little expense’ procedure, where you are refunded rather than the object being acquired by the DFA itself). At the end of the Ph.D. such material shall be returned to the Secretariat or research group which will eventually reuse it or dispose and remove from the inventory.
+- IT material - like tablets, laptops, desktop computers, monitors. Such material can be distinguished by consumable electronics by cost and being inventoried in the INFN/UNIPD catalog. An order for such material shall be requested to the ITOffice in the DFA, via the specified module available here (link). It is required to first issue the request and only after approval get the product (as opposed to the ‘little expense’ procedure, where you are refunded rather than the object being acquired by the DFA itself). At the end of the Ph.D. such material shall be returned to the Secretariat or research group which will eventually reuse it or dispose and remove it from the inventory.
 
 #### Missions
 
@@ -223,10 +223,9 @@ Opening of the mission is mandatory also for those students with an INFN/private
 
 #### Discounts for Ph.D. students
 Note that many companies and service providers offer discounts to university students in general, and the Ph.D. students are included. A non-exaustive list of interesting services is:
-- Trenitalia Business (30% on high speed 'Freccia' trains)
+- Trenitalia Business (30% on high-speed 'Freccia' trains)
 - [GitHub Students](https://education.github.com/pack#offers) (i.e., Copilot, free web hosting, etc.)
 
-[??] [espandere lista]
 
 A complete list of discounts that the University of Padua has is available at the webpage (italian only): https://www.unipd.it/convenzioni. [This is the Google's english translation.](https://www-unipd-it.translate.goog/convenzioni?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=it&_x_tr_pto=wapp)
  
@@ -237,7 +236,7 @@ Further information (eng): https://www.unipd.it/en/Ph.D.-courses-fees-grants-and
 
 ### Publishing papers
 #### Journals: categories and classification
-When publishing papers, it is important to have some accounting concepts in mind, other than the research in itself. From a fiscal point of view, and roughly speaking, journals classify in three categories:
+When publishing papers, it is important to have some accounting concepts in mind, other than the research in itself. From a fiscal point of view, and roughly speaking, journals are classified in three categories:
 - Closed Access: articles are only available to subscribers. The expenses and profits of the publishers come from the subscriptions. In many cases, the subscriptions are handled not by individuals, but by universities or research institutes.
 - Full ("Gold") Open Access: articles are available on the web to anyone, and the expenses and profits of the publishers come from the author's payment. This payment is frequently referred to as Article Processing Charges.
 - Hybrid Access: the author can decide if publishing in open access or not.
@@ -246,7 +245,7 @@ The University of Padova has agreements with many open access and hybrid journal
 
 Much more detailed information is provided by the Sistema Bibliotecario di Ateneo at the link https://bibliotecadigitale.cab.unipd.it/en/digital-library/about-publishing.
 
-Being that the payment of the articles with department or university funds is subject to the national anti-corruption routines (managed by Autorità Nazionale Anti Corruzione ANAC), it is . At the european level, VAT is payed as per the rules of the customer country, and fiscal coordinates of the department must be provided. The common way to tacke all of it is to contact the department administration offices as soon as the article has been accepted by the publishers, and wait for their instructions.
+Being that the payment of the articles with department or university funds is subject to the national anti-corruption routines (managed by Autorità Nazionale Anti Corruzione ANAC), it is . At the european level, VAT is payed as per the rules of the customer country, and fiscal coordinates of the department must be provided. The common way to tackle all of it is to contact the department administration offices as soon as the article has been accepted by the publishers and wait for their instructions.
 
 #### Evaluation of performance: metrics
 Being that the academic production of a person is currently quantified using synthetic indicators, it is important to know what are the metrics currently used to evaluate performance of authors and of journals. Some metrics can also be misleading, and a discussion on them is given here https://bibliotecadigitale.cab.unipd.it/en/digital-library/about-publishing/impact-of-research. While selecting the journal for your research, bear in mind also of the phenomenon of predatory publishers.
@@ -260,25 +259,3 @@ When publishing, it is important to be transparent about the funding, and also t
 -  [ ] case of car accident
 ### Suspension, extension (guida di ateneo)
 -->
-### Supervisor/ selection and change [??]
-
-
-# FAQ
-This section contains a list of frequently asked questions with typical scenarios you can experience. The answer attempts to provide a short answer with a) instructions about how-to address the point of concern; b) online references about it and c) contact persons that can provide further assistance.
-
-Additional keywords are appended to the end of each FAQ paragraph, in order to facilitate the lookup via the search function (Ctrl+F).
-
-1. How many exams are required each year, and what are the subjects?
-   a) Currently, in the first year, the student needs to take three exams and     complete all of them by the end of the second year.
-   c) Cristina Mazzucco
-_____
-#### Le nostre domande per Monaco e la Mazzucco
-- Che succede se il tuo supervisor muore? (ask also phd office)
-- Chi sono i rappresentanti dei dottorandi a Fisica e in tutta l'università? Si vota per loro? Quando, quanto durano i mandati?
-- Incarichi dei rappresentanti degli studenti. Scenari in cui si può fare riferimento a ste figure, a cosa servono ecc.
-
-
-
-#### TODO
-- robot to check the aliveness of the links in the page
-- Insert the role of Antonio Trovato as a "Mediatore didattico"
