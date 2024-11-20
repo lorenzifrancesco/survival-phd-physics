@@ -45,17 +45,21 @@ Official information about the Department can be found at https://www.dfa.unipd.
 ## Contacts
 **Ph.D. School Coordinator**
 Prof. Giulio Monaco
-Email:			giulio.monaco@unipd.it
+Email:		giulio.monaco@unipd.it
 Phone:		0498277194	
 		
 **Ph.D. School Secretariat**
-Webpage: 		http://www.dfa.unipd.it/servizi/settore-didattica-e-post-lauream/ 
-Email: 		didattica.dfa@unipd.it
+Webpage: 	        http://www.dfa.unipd.it/servizi/settore-didattica-e-post-lauream/ 
+Email: 		        didattica.dfa@unipd.it
 Reference person: 	Cristina Mazzucco (cristina.mazzucco@unipd.it, 0498277089)
 
 **Ph.D. student representatives in the Ph.D. board**
 Pietro Grutta 		pietro.grutta@studenti.unipd.it 
 Francesco Lorenzi	francesco.lorenzi.2@studenti.unipd.it
+
+**Ph.D. and post-doc (assegnisti) representatives DFA**
+The list is available here: [https://www.dfa.unipd.it/dipartimento/direttore-e-organi-collegiali/consiglio-di-dipartimento/](https://www.dfa.unipd.it/dipartimento/direttore-e-organi-collegiali/consiglio-di-dipartimento/)
+
 
 # Topics
 ## Before starting the Ph.D
