@@ -1,15 +1,46 @@
 # The survival guide for Ph.D. students
-###### date: `18/11/2024`
-This document collects a list of useful references and frequently asked questions (FAQs) that are of interest to Ph.D. students in Physics at the Department of Physics and Astronomy DFA (University of Padova).
+###### last update: `18/11/2024`
+This document collects a list of useful references and frequently asked questions (FAQs) of interest to Ph.D. students in Physics at the Department of Physics and Astronomy DFA (University of Padova).
 
-At the present time, it is an unofficial document: it is written and maintained by the Ph.D. students themselves. The editors of this document are the two student representatives in the Ph.D. board: Pietro Grutta (pietro.grutta@studenti.unipd.it) and Francesco Lorenzi (francesco.lorenzi.2@studenti.unipd.it).
+It is currently an unofficial document: it is written and maintained by the Ph.D. students themselves. The editors of this document are the two student representatives in the Ph.D. Council Board: Pietro Grutta (pietro.grutta@studenti.unipd.it) and Francesco Lorenzi (francesco.lorenzi.2@studenti.unipd.it). Feel free to collaborate to this repository by cloning and making a merge request!💫
 
-All the information are specific to the Department of Physics and Astronomy. 
-Some useful general information on the Ph.D. courses at the University of Padova can be found at https://www.unipd.it/en/node/4253.
-Official information provided by the Department are found at https://www.dfa.unipd.it/didattica/dottorati-di-ricerca/phd-physics/.
+All information is specific to the Department of Physics and Astronomy (DFA), University of Padova.
+Some useful general information about Ph.D. programs at the University of Padova can be found at https://www.unipd.it/en/node/4253.
+Official information about the Department can be found at https://www.dfa.unipd.it/didattica/dottorati-di-ricerca/phd-physics/.
 
 <span style="font-size:1.5em;">Contents</span>
-[ToC]
+- [Topics](#topics)
+  - [Before starting the Ph.D](#before-starting-the-phd)
+    - [Research groups at DFA UniPd](#research-groups-at-dfa-unipd)
+    - [Usual calendar](#usual-calendar)
+    - [Structure of the course: exams](#structure-of-the-course-exams)
+      - [Extra exams. The diploma supplement](#extra-exams-the-diploma-supplement)
+  - [During PhD](#during-phd)
+    - [Office](#office)
+      - [Access to the workplace (office hours and beyond)](#access-to-the-workplace-office-hours-and-beyond)
+      - [Assignation](#assignation)
+      - [Car parking](#car-parking)
+      - [Bicycle parking](#bicycle-parking)
+      - [Wireless internet access: Eduroam](#wireless-internet-access-eduroam)
+      - [Wired internet access (INFN)](#wired-internet-access-infn)
+      - [Printers](#printers)
+      - [Warehouse (stationery, keyboard, mouse, etc.)](#warehouse-stationery-keyboard-mouse-etc)
+      - [Leasing items](#leasing-items)
+    - [Funds](#funds)
+      - [Three types of scholarships](#three-types-of-scholarships)
+      - [Additional Funds](#additional-funds)
+      - [Scenarios for the usage of additional funds](#scenarios-for-the-usage-of-additional-funds)
+      - [Typical usage of the research budget](#typical-usage-of-the-research-budget)
+      - [Missions](#missions)
+      - [Discounts for Ph.D. students](#discounts-for-phd-students)
+      - [Period abroad](#period-abroad)
+    - [Publishing papers](#publishing-papers)
+      - [Journals: categories and classification](#journals-categories-and-classification)
+      - [Evaluation of performance: metrics](#evaluation-of-performance-metrics)
+      - [Affiliations](#affiliations)
+    - [Cotutela (guida di ateneo)](#cotutela-guida-di-ateneo)
+    - [Part-time jobs (guida di ateneo)](#part-time-jobs-guida-di-ateneo)
+    - [Suspension, extension (guida di ateneo)](#suspension-extension-guida-di-ateneo)
 
 ## Contacts
 **Ph.D. School Coordinator**
