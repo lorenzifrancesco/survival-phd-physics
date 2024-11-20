@@ -64,10 +64,10 @@ The list is available here: [https://www.dfa.unipd.it/dipartimento/direttore-e-o
 # Topics
 ## Before starting the Ph.D
 ### Research groups at DFA UniPd
-The research in our Department is conducted in a wide variety of areas of Physics. The main research areas, with contact people, are given in this link http://www.dfa.unipd.it/en/research/research-areas-and-groups/.
+Research in our department is carried out in many different areas of physics. The main research areas, with contact persons, are given in this link http://www.dfa.unipd.it/en/research/research-areas-and-groups/.
+
 
 ### Usual calendar
-
 The three-years period of the Ph.D. course is divided in three academic years. At the end of each academic year (occuring around September), an **[admission exam](#admissionExam) to the next year** has to be given at the end of the first and the second year.
 
 
@@ -80,10 +80,13 @@ For further information about thesis deadlines: https://www.unipd.it/en/Ph.D.-fi
 ### Structure of the course: exams 
 The <span id="admissionExam">admission exam</span> has the purpose of evaluating if the Ph.D. student is on track with his own research, if there are some problems about it, and, importantly, if he or she has completed the needed exams for the year. Currently, it is mandatory to take 4 exams in physics or related areas of research, plus a soft skills exam. This scenario is expected to change starting from the 40th cycle, but the scheme will more or less remains the same.
 
-In the first year the student needs to take 3 of them, and complete all of them by the end of the second year.
+During the course of the first year, a student is required to attend 3 courses. Also, all the related exams must be completed by the end of the year. The exam for the remaining course (the fourth) one has to attend shall be completed in any case by the end of the second year.
 
-All the proposed exams consist in 24 hours of didactics. The final exam depends on the courses. In most cases, it consists of an oral presentation on an advanced research topic (typically a discussion of a paper).
-It is possible to select one exam as an assessment provided by a summer or winter school, or another exam from the University of Padova, that is structurally similar to the ones offered in the Ph.D. school.
+Each of the proposed courses consists in 24 hours of didactics. The type of the final exam depends from the course itself and the lecturer. However, in most cases it consists of an oral presentation on an advanced research topic (typically a discussion of a paper).
+
+It is possible to choose an examination offered by a summer or winter school, or any other examination offered by the University of Padua that is structurally similar to the one offered by the Ph.D. School.
+
+This structure holds up to **cycle 39th**. Starting from the **cycle 40th** (included) the structure of the Ph.D. course has been standardised over italian universities. There are a certain number of credits (CFU) for each category that the student has to achieve (exams, schools, seminars, etc.). This information is reported here: https://www.dfa.unipd.it/didattica/dottorati-di-ricerca/phd-physics/didactics/, which is not updated but in this page (https://www.dfa.unipd.it/didattica/dottorati-di-ricerca/phd-physics/didactics/mandatory-training/) there is details about how these CFU are divided. It is worth to notice that in practise, this structure is analogous to the previous one, but with a more detailed and standardized way to report the exams and the credits.
 
 #### Extra exams. The diploma supplement
 The Diploma Supplement is a document that accompanies a university degree (diploma) and provides additional information about the degree in a standardized format. For the University of Padova, as with other universities in the European Higher Education Area (EHEA), the Diploma Supplement typically includes much information, like
