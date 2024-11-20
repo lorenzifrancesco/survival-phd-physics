@@ -151,20 +151,20 @@ The sticker can be requested by the personnel of the reception (the people you f
 You can park the bike also without the sticker. However, in such a case there is the possibility that your bike will be removed if left there for a long time. Therefore, it is recommended to request it.
 
 #### Wireless internet access: Eduroam
-Eduroam is a secure wireless network. It has been developed for the education and research community and it is used by millions of users from thousands of universities in more than 70 countries worldwide. (ref. https://www.unipd.it/en/eduroam ).
+Eduroam is a secure wireless network. It was created for schools and universities and is used by millions of people at thousands of schools in more than 70 countries. (Source: https://www.unipd.it/en/eduroam).
 
-Instructions about how to access eduroam for the first time are here:
+First-time access instructions:
 https://asit.unipd.it/english-version/eduroam/how-access-eduroam
 
-There is a wide coverage of eduroam WiFi. However, there is a well-known issue near the Marzolo M382 office. This has been investigated during 2022 with the ‘Servizio Calcolo’ - which manages the actual network in the DFA.
-The issue: You have high signal strength (4/5 ticks) but signal quality is low and you can’t get a stable internet connection.
-Cause: (from Servizio Calcolo reply) There are too many wifi antennas, causing poor network card-router links (e.g., your wifi network card will jump from one router with another one, both with the same SSID).
-Solution: The gravity of the issue (how it affects connection stability and speed) depends on the specific WiFi-card you have. There is no definite solution. You can open a ticket with Servizio Calcolo (pd-support@pd.infn.it) asking for further support or you can access the internet with a wired connection.
+There is a wide coverage of eduroam WiFi. There is a well-known issue near the Marzolo M382 office. This has been investigated in 2022 by ‘Servizio Calcolo’ (IT department, DFA).
+The **problem** is: You have a strong signal (4-5/5 ticks), but poor quality and no stable internet.
+The **cause** is related to (from Servizio Calcolo reply) the too many wifi antennas, causing poor network card-router links (e.g., your wifi network card will jump from one router with another one, both with the same SSID).
+A **solution**: how severe this instability is depends on the specific WiFi-card you have. There is no definite solution. You can tweak the Wifi setting, to connect to a specific access point. The most convenient solution is to connect with the cable (check next section). You can open a ticket with Servizio Calcolo (pd-support@pd.infn.it) asking for further support.
 
 #### Wired internet access (INFN)
 Wired connection can be accessed through any of the outlets you can find scattered over the DFA buildings. The network is managed by the INFN, as a mutual agreement between the DFA and INFN.
 
-The wired network has access both to the internet and to a set of internal resources (like measurement instruments in the labs, personal computers, printers, etc.). For example, remote desktop ports are blocked on euduroam's wifi while not on the wired network (3389 for Window's RDP).
+The wired network has access both to internal resources (like measurement instruments in the labs, personal computers, printers, etc.) and internet For example, the Window's remote desktop protocol (RDP) port 3389 is blocked on euduroam's wifi while not on the wired network.
 
 Only authorized devices are allowed to connect to the network. Allowance is given to the network card on your computer based on the hardware MAC address of the network card.
 
