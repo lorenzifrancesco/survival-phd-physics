@@ -96,22 +96,25 @@ The Diploma Supplement is a document that accompanies a university degree (diplo
 3. Academic context: Information about the university and its status in the higher education system, including accreditation and recognition.
 4. National higher education system: A brief description of the higher education system in Italy, providing context for understanding the qualification.
 
-Extra exams that the students attend during the PhD course are reported in the document.
+Additional exams taken by students during the doctoral programme are mentioned in the document.
 
 ## During PhD
 ### Office
-
 #### Access to the workplace (office hours and beyond)
-At the time the personal badge is issued, a request for accessing the DFA over a certain time period (either 24h/7 or 08:00-19:00 Mon.-Fri.) is filled. The document (‘Modulo per la richiesta di accesso’ - [link](https://www.dfa.unipd.it/servizi/settore-direzione/modulistica/)) determines the time interval you have access to the structure. All the Ph.D. students have granted 24h/7 access policy. As a matter of fact, after you have received the badge you should have grants to access the buildings in the requested time period.
+When the personal badge is issued, a request is made for access to the DFA for a certain period of time (either 24/7 or 08:00-19:00 Mon-Fri). The document ('Modulo per la richiesta di accesso' - [link](https://www.dfa.unipd.it/servizi/settore-direzione/modulistica/)) determines the time interval during which you have access to the structure. All Ph.D. students are granted 24/7 access. In fact, once you have received the badge, you should be able to access the buildings during the period requested.
 
-The access policy holds for all the DFA structured personnel. In the unfortunate event that the badge does not work as intended (e.g. you are able to access Via Marzolo but not Via Paolotti), you can email Servizi Tecnici Generali (email: [stg@dfa.unipd.it](mailto:stg@dfa.unipd.it) reporting the issue (remember to include our badge number).
+The access policy applies to all structured staff of the DFA. In the unfortunate event that the badge does not work as intended (e.g. you can access Via Marzolo but not Via Paolotti), you can send an e-mail to Servizi Tecnici Generali (e-mail: [stg@dfa.unipd.it](mailto:stg@dfa.unipd.it) to report the problem (remember to include our badge number) ).
 
-Office keys are to be requested to the reception personnel in place at each building. The reception keeps an updated list of the Ph.D. students assigned to each office. Upon finishing the Ph.D. period, keys should be returned.
+Office keys can be requested from the reception staff in each building. The reception keeps an updated list of the PhD students assigned to each office. The keys should be returned at the end of the PhD period.
 
-If you need to let in a person that is not affiliated with the department, the responsibility of his or her safety and the safety of the properties of the department is yours.
+(If you need to let in a person who is not a member of the department, you are responsible for their safety and the safety of the department's property.)
 
 #### Assignation
-Offices are assigned at the beginning of the Ph.D., but can eventually undergo modifications due to space needs of the department. Ph.D. students are distributed all over the department due to the research groups needs and habits, however, there are some rooms where the students share the office.
+The referent for allocations is Ugo Gasparini, who is the responsible for the 'Commissione Spazi'. He has an Excel document, containing the DFA staff and their assigned office. The Ph.D. students directly, and the representatives in case of partitucular needs, can relate to him if any needs about allocations may arise. It is suggested to check yourself the availability of the rooms, after you have been assigned.
+
+Your office is assigned at the beginning of the Ph.D., but can eventually undergo modifications due to space needs of the department. It is well known that there could be issues related to the office space, because of the limited resources we have at DFA. Therefore, it is well known that you may be assigned to a shared office space which is already actually full. This problem is caused by the fact that the aforementioned Excel document cannot be all the time updated, and as people leave for periods abroad or change office the document is not updated. In this case, it is suggested to contact the Ph.D. School Secretariat (Cristina Mazzucco).
+
+Ph.D. students are distributed all over the department due to the research groups needs and habits, however, there are some rooms where the students share the office.
 They are:
 
 | Room number  | floor | spaces | location  |
@@ -125,9 +128,7 @@ They are:
 | *P*alsi      | 4     | 9  | via Belzoni 7 (a.k.a. *P*aolotti building)|
 
 
-The referent for allocations is Prof. Ugo Gasparini. The Ph.D. representative can relate to him if any needs about allocations may arise. It is suggested to check yourself the availability of the rooms, after you have been assigned.
-
-The number of seats is not sufficient to guarantee that every student has his/her own desk. Therefore, it is possible that given a certain number of seats in an office (i.e., 18 in M382) more students are assigned there. This occurs especially because people who is not entirely based in DFA (like Ph.D. students working in Legnaro's). 
+The number of desks is not sufficient to guarantee that every student has his/her own desk. Therefore, it is possible that given a certain number of seats in an office (i.e., 18 in M382) more students are assigned there. This should occur especially for those people who are not based fulltime in Padua (like Ph.D. students working in Legnaro's).
 
 A map of office assignations can be found [here](https://docs.google.com/spreadsheets/d/17KcXkMf2aM042LebgOvS0XId70IA5Eomwbc3cIahmSQ/edit?usp=sharing).
 
