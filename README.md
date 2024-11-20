@@ -8,6 +8,9 @@ All information is specific to the Department of Physics and Astronomy (DFA), Un
 Some useful general information about Ph.D. programs at the University of Padova can be found at https://www.unipd.it/en/node/4253.
 Official information about the Department can be found at https://www.dfa.unipd.it/didattica/dottorati-di-ricerca/phd-physics/.
 
+**International PhD Guide from UniPd:**
+https://www.unipd.it/en/phd-guide
+
 <span style="font-size:1.5em;">Contents</span>
 - [Topics](#topics)
   - [Before starting the Ph.D](#before-starting-the-phd)
@@ -133,10 +136,9 @@ The number of desks is not sufficient to guarantee that every student has his/he
 A map of office assignations can be found [here](https://docs.google.com/spreadsheets/d/17KcXkMf2aM042LebgOvS0XId70IA5Eomwbc3cIahmSQ/edit?usp=sharing).
 
 #### Car parking
-There is not enough space to allow car parking for all the staff of the DFA. The final decision to not allow car parking for Ph.D. students has been taken during the 2022 (‘DFA parking gate’).
+There is not enough space to provide parking for all DFA staff. The final decision not to allow parking for PhD students has been taken during 2022 ('DFA parking gate').
 
-|||
-However, in exceptional cases you can present a request to the ‘DFA Segreteria di Direzione’ (email: segredip@dfa.unipd.it) requiring a personal space. It is suggested to include the Ph.D. School coordinator (Giulio Monaco, email: giulio.monaco@unipd.it ) in carbon copy (cc).
+However, in case of particular needs (i.e., you are not based in Padua, temporary mobility issues, etc.) you can present a request to the ‘DFA Segreteria di Direzione’ (email: segredip@dfa.unipd.it) requiring a personal space for parking. It is suggested to include the Ph.D. School coordinator (Giulio Monaco, email: giulio.monaco@unipd.it ) in cc.
 
 
 #### Bicycle parking 
