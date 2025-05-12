@@ -79,7 +79,7 @@ The timetables for the thesis and defense are established year by year. For exam
 - Oct 2nd: Submit your final thesis before 12pm of
 - Nov 31st: second submission of the thesis after minor revisions
 - Jan/March of the next year: discussion
-For further information about thesis deadlines: https://www.unipd.it/en/Ph.D.-final-exam.
+For further information about thesis deadlines: https://www.unipd.it/en/phd-final-exam .
 ### Structure of the course: exams 
 The <span id="admissionExam">admission exam</span> has the purpose of evaluating if the Ph.D. student is on track with his own research, if there are some problems about it, and, importantly, if he or she has completed the needed exams for the year. Currently, it is mandatory to take 4 exams in physics or related areas of research, plus a soft skills exam. This scenario is expected to change starting from the 40th cycle, but the scheme will more or less remains the same.
 
