@@ -12,6 +12,9 @@ Official information about the Department can be found at https://www.dfa.unipd.
 https://www.unipd.it/en/phd-guide
 
 <span style="font-size:1.5em;">Contents</span>
+- [The survival guide for Ph.D. students](#the-survival-guide-for-phd-students)
+          - [last update: `18/11/2024`](#last-update-18112024)
+  - [Contacts](#contacts)
 - [Topics](#topics)
   - [Before starting the Ph.D](#before-starting-the-phd)
     - [Research groups at DFA UniPd](#research-groups-at-dfa-unipd)
@@ -41,9 +44,6 @@ https://www.unipd.it/en/phd-guide
       - [Journals: categories and classification](#journals-categories-and-classification)
       - [Evaluation of performance: metrics](#evaluation-of-performance-metrics)
       - [Affiliations](#affiliations)
-    - [Cotutela (guida di ateneo)](#cotutela-guida-di-ateneo)
-    - [Part-time jobs (guida di ateneo)](#part-time-jobs-guida-di-ateneo)
-    - [Suspension, extension (guida di ateneo)](#suspension-extension-guida-di-ateneo)
 
 ## Contacts
 **Ph.D. School Coordinator**
@@ -57,8 +57,12 @@ Email: 		        didattica.dfa@unipd.it
 Reference person: 	Cristina Mazzucco (cristina.mazzucco@unipd.it, 0498277089)
 
 **Ph.D. student representatives in the Ph.D. board**
-Pietro Grutta 		pietro.grutta@studenti.unipd.it 
+Luca Campagnoni 		luca.campagnoni@studenti.unipd.it 
 Francesco Lorenzi	francesco.lorenzi.2@studenti.unipd.it
+
+The role of representatives is summarized in the picture.
+<img style="width:49%;" src="media/representatives.pdf">
+
 
 **Ph.D. and post-doc (assegnisti) representatives DFA**
 The list is available here: [https://www.dfa.unipd.it/dipartimento/direttore-e-organi-collegiali/consiglio-di-dipartimento/](https://www.dfa.unipd.it/dipartimento/direttore-e-organi-collegiali/consiglio-di-dipartimento/)
